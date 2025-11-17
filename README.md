@@ -21,3 +21,17 @@ cd ..
 ./waf configure --enable-examples
 ./waf
 ```
+
+編譯成功後會顯示：
+```
+Waf: Leaving directory `.../clone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (...)
+
+Modules built:
+*****   *****             *****
+*****   leo (no Python)   *****
+*****   *****             *****
+
+...
+```
