@@ -21,7 +21,6 @@
 #include "ns3/simulator.h"
 #include "ns3/point-to-point-net-device.h"
 #include "ns3/point-to-point-channel.h"
-#include "ns3/point-to-point-remote-channel.h"
 #include "ns3/queue.h"
 #include "ns3/config.h"
 #include "ns3/packet.h"
